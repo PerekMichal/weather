@@ -1,0 +1,11 @@
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\database\dao\impl\WeatherDaoImp.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\utils\HttpUtils.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\utils\Config.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\services\WeatherService.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\services\WeatherData.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\Main.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\database\DatabaseConnector.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\WeatherModel.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\services\WeatherObserver.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\controllers\MainController.java
+D:\workspace-akademiakodu\Weather\src\main\java\pl\perekmichal\models\database\dao\WeatherDao.java

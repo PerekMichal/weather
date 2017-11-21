@@ -1,0 +1,12 @@
+pl\perekmichal\Main.class
+pl\perekmichal\models\utils\Config.class
+pl\perekmichal\models\database\dao\impl\WeatherDaoImp.class
+pl\perekmichal\models\utils\HttpUtils.class
+pl\perekmichal\models\services\WeatherData.class
+pl\perekmichal\models\WeatherModel.class
+pl\perekmichal\models\database\dao\WeatherDao.class
+pl\perekmichal\models\services\WeatherObserver.class
+pl\perekmichal\models\services\WeatherService.class
+pl\perekmichal\Main$1.class
+pl\perekmichal\models\database\DatabaseConnector.class
+pl\perekmichal\controllers\MainController.class
